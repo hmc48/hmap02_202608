@@ -3,7 +3,7 @@
 "name": "geo_02_地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "金吹沢の森【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】青森県八戸市大字大久保字大山7番地", "url2": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0290300102-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 141.574188376721168, 40.496585595297077 ] } },
-{ "type": "Feature", "properties": { "内容": "地域密着型特定施設なかよし荘【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】青森県十和田市大字深持字南平312番1", "url2": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0290600071-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 141.17271930000004, 40.6153467 ] } }
+{ "type": "Feature", "properties": { "内容": "金吹沢の森【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】青森県八戸市大字大久保字大山7番地", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0290300102-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 141.574188376721168, 40.496585595297077 ] } },
+{ "type": "Feature", "properties": { "内容": "地域密着型特定施設なかよし荘【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】青森県十和田市大字深持字南平312番1", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0290600071-00&ServiceCd=&Type=search", "url2": "http://www.nakayoshi-sou.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 141.17271930000004, 40.6153467 ] } }
 ]
 }

@@ -3,7 +3,7 @@
 "name": "geo_02_地域密着型特定施設入居者生活介護（有料老人ホーム）",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "地域密着型特定施設入居者生活介護事業所惣久【地域密着型特定施設入居者生活介護（有料老人ホーム）】青森県青森市堤町2丁目4-9", "url2": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0290100650-00&ServiceCd=361&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 140.75608703002473, 40.822234094201043 ] } },
-{ "type": "Feature", "properties": { "内容": "ぬくもり【地域密着型特定施設入居者生活介護（有料老人ホーム）】青森県東津軽郡今別町浜名字中宇田１番地３１", "url2": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0292000213-00&ServiceCd=361&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 140.469318992590388, 41.181331580608045 ] } }
+{ "type": "Feature", "properties": { "内容": "地域密着型特定施設入居者生活介護事業所惣久【地域密着型特定施設入居者生活介護（有料老人ホーム）】青森県青森市堤町2丁目4-9", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0290100650-00&ServiceCd=361&Type=search", "url2": "https://eisoukai.com/" }, "geometry": { "type": "Point", "coordinates": [ 140.75608703002473, 40.822234094201043 ] } },
+{ "type": "Feature", "properties": { "内容": "ぬくもり【地域密着型特定施設入居者生活介護（有料老人ホーム）】青森県東津軽郡今別町浜名字中宇田１番地３１", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0292000213-00&ServiceCd=361&Type=search", "url2": "tugarusaport-khhy.com" }, "geometry": { "type": "Point", "coordinates": [ 140.469318992590388, 41.181331580608045 ] } }
 ]
 }
