@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_02_高等専門学校",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "02203", "P29_002": "G102110100721", "P29_003": "16005", "P29_004": "八戸工業高等専門学校", "P29_005": "青森県八戸市大字田面木字上野平16-1", "P29_006": "1", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 141.449424264173388, 40.492085315904774 ] } }
+]
+}
